@@ -5,7 +5,7 @@ __pycache__/
 venv/
 data/raw/
 data/interim/
-data/processed/*.csv
+# data/processed/*.csv
 !data/processed/.gitkeep
 .DS_Store
 .ipynb_checkpoints/
